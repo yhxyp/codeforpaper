@@ -1,0 +1,1 @@
+Code for paper. Generate simulation EEG data, then run train.py. In addition, you can also add other ESI methods for performance comparison.
